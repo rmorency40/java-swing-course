@@ -14,7 +14,7 @@ public class MainFrame extends JFrame {
 		super("Hello World");
 		//create the frame with the title "Hello World!"
 		
-		JFrame frame = new JFrame("Hello World");
+		//JFrame frame = new JFrame("Hello World");
 		
 		setLayout(new BorderLayout());
 		textArea = new JTextArea();
